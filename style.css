@@ -73,7 +73,7 @@ body {
     25% {
         transform: scale(1.5);
     }
-    50 {
+    50% {
         transform: scale(0.85);
     }
     75% {
